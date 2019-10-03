@@ -1,3 +1,3 @@
 # Brunel-Timetable
 
-Auomatically view and save the Brunel University timetable of a student's current week.
+Utilizing WebBot, a script to view and save the Brunel University timetable of a student's current week.
