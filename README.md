@@ -1,2 +1,3 @@
 # brunel-timetable
-Brunel University Timetable Viewer/Saver
+
+Automatically view and save the Brunel University Timetable for a student
