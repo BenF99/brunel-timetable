@@ -15,6 +15,7 @@ class viewTimetable():
         driver.click(id = 'LinkBtn_mystudentsettimetable')
         driver.click('View Timetable')
         driver.save_screenshot(PATH)
+        # driver.quit()
 
         
 lb = viewTimetable(STUDENT_ID, PASSWORD)
